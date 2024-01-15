@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Chris
 
-<!--
-**carderne/carderne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software/infra/data engineer and love building and breaking and tinkering.
+If I’m inside but not at the computer, I’m probably reading. And when outside, I’d ideally be climbing mountains but more frequently running and cycling.
 
-Here are some ideas to get you started:
+Currently I’m building [Translucent](https://www.translucent.io/), the next-gen multi-entity accountancy SaaS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve been lucky enough to work across the tech spectrum: designing systems, building apps and services, exploring data, taming models.
+
+By day I write Python (with Pyright set to hard mode) and TypeScript (tRPC + Next.js aren’t so bad), while by night I enjoy Go and Rust and playing with LLMs (because who doesn’t).
+
+I’ve worked with some hot startups in the finance, climate and energy spaces, supported top research institutions and multinationals.
+
+### Contact
+[chris@rdrn.me](mailto:chris@rdrn.me)  
+[rdrn.me](https://rdrn.me/)  
+[linkedin.com/in/chris-arderne](https://www.linkedin.com/in/chris-arderne/)  
