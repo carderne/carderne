@@ -10,8 +10,3 @@ I’ve been lucky enough to work across the tech spectrum: designing systems, bu
 By day I write Python (with Pyright set to hard mode) and TypeScript (tRPC + Next.js aren’t so bad), while by night I enjoy Go and Rust and playing with LLMs (because who doesn’t).
 
 I’ve worked with some hot startups in the finance, climate and energy spaces, supported top research institutions and multinationals.
-
-### Contact
-[chris@rdrn.me](mailto:chris@rdrn.me)  
-[rdrn.me](https://rdrn.me/)  
-[linkedin.com/in/chris-arderne](https://www.linkedin.com/in/chris-arderne/)  
